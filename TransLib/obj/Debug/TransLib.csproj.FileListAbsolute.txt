@@ -1,0 +1,10 @@
+D:\TUANTIN\WORK\PRIVATE\Bank\Project\TransLib\bin\Debug\TransLib.dll.config
+D:\TUANTIN\WORK\PRIVATE\Bank\Project\TransLib\bin\Debug\TransLib.dll
+D:\TUANTIN\WORK\PRIVATE\Bank\Project\TransLib\bin\Debug\TransLib.pdb
+D:\TUANTIN\WORK\PRIVATE\Bank\Project\TransLib\bin\Debug\EntityFramework.dll
+D:\TUANTIN\WORK\PRIVATE\Bank\Project\TransLib\bin\Debug\EntityFramework.SqlServer.dll
+D:\TUANTIN\WORK\PRIVATE\Bank\Project\TransLib\bin\Debug\EntityFramework.xml
+D:\TUANTIN\WORK\PRIVATE\Bank\Project\TransLib\bin\Debug\EntityFramework.SqlServer.xml
+D:\TUANTIN\WORK\PRIVATE\Bank\Project\TransLib\obj\Debug\TransLib.csprojResolveAssemblyReference.cache
+D:\TUANTIN\WORK\PRIVATE\Bank\Project\TransLib\obj\Debug\TransLib.dll
+D:\TUANTIN\WORK\PRIVATE\Bank\Project\TransLib\obj\Debug\TransLib.pdb
